@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NammIsADev
+# 👋 Hi, I’m Namm.
 - 👀 I’m interested in phone/OS mods.
 - 🌱 I’m currently learning Python and Batchfiles.
 - 💞️ I’m looking to collaborate on some small project.
