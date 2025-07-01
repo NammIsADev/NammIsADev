@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Namm.
 - 👀 I’m interested in phone/OS mods.
-- 🌱 I’m currently learning Python and Batchfiles.
+- 🌱 I’m currently learning Python, HTML, Powershell, TWRP Edify, JS, CSS and Batchfiles.
 - 💞️ I’m looking to collaborate on some small project.
 - 📫 How to reach me: namb20994@gmail.com
 - 😄 Pronouns: he/him
